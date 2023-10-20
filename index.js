@@ -5,7 +5,7 @@ const PORT = 4000
 
 
 app.get('/home', (req, res) => {
-  res.status(200).json('Welcome, your app is working well');
+  res.status(200).json('Class Activity 03 - Vercel App - Working Perfectly!');
 })
 
 
